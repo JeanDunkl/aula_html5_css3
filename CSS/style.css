@@ -1,0 +1,23 @@
+body {background:rgb(117, 116, 116); 
+margin-left: 200px;
+margin-right: 100px;
+margin-top: 60px;
+}
+
+header { margin-top: 70px;}
+
+
+
+
+h1{color: white;
+font-family:fantasy;}
+
+h2{font-family: cambria;}
+
+p {font-size: 20px;}
+
+image {margin-bottom: 100px;}
+
+.logo {margin-bottom: 20px;}
+
+footer {margin-bottom: 30px;}
